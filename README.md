@@ -1,4 +1,4 @@
-Install Dependencies ( type in console ) : in <a href="https://github.com/Mitesh2020/Bookstore-API/blob/main/go.mod">go.mod</a> file you will find all installed dependencies like `package.json`.<br>
+Install Dependencies ( type in console ) : in <a href="https://github.com/Mitesh2020/Stocks_API/blob/main/go.mod">go.mod</a> file you will find all installed dependencies like `package.json`.<br>
 
 # CreateStock Route :
 ![image](https://github.com/Mitesh2020/Stocks_API/assets/75556442/a152292f-7d4e-42b8-9927-99228d1d6bd4)
